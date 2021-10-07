@@ -4,3 +4,15 @@ klo
 iam changing original 
 klo
 changing again
+kkkkk
+A
+A
+B
+B
+Cuu
+C
+D
+changing to see merging before pushing from branched  
+D
+A
+
